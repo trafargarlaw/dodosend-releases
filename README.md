@@ -1,1 +1,1 @@
-# flowmail-releases
+# Dodosend-releases
